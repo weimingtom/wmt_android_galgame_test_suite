@@ -12,6 +12,9 @@ My Android Galgame Test Suite
 
 ## ONScripter Plus
 * https://play.google.com/store/apps/details?id=com.onscripter.plus
+* https://github.com/butter255/emu/releases/download/ONScripter-PLUS/Onscripter-Plus_2.0.16.apk  
+* https://github.com/butter255/emu/releases
+* NOTE: I use 2.0.18  
 
 ## 吉里吉里2模拟器, kirikiroid2
 * https://github.com/zeas2/Kirikiroid2/releases/download/1.3.9/Kirikiroid2_1.3.9.apk
