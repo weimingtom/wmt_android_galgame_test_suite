@@ -32,6 +32,18 @@ My Android Galgame Test Suite
 * https://github.com/2468785842/krkr2/releases/download/v1.4.3/krkr2-1.4.3-arm64-v8a.apk  
 * https://github.com/2468785842/krkr2/releases  
 
+## Tyranor 
+
+## Artroid+
+
+## RLVM
+* https://github.com/xyzz/rlvm/releases/download/android-1/rlvm-1.apk  
+* https://github.com/xyzz/rlvm/releases/tag/android-1  
+
+## EasyRPG
+* https://easyrpg.org/downloads/player/0.8/easyrpg-player-0.8-android.apk
+* https://easyrpg.org/downloads/player/0.8/
+
 ## PPSSPP
 * https://www.ppsspp.org/files/1_16_6/ppsspp.apk
 * https://www.ppsspp.org/files/1_18_1/ppsspp.apk
