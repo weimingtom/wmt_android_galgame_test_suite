@@ -1,2 +1,28 @@
 # wmt_android_galgame_test_suite
 My Android Galgame Test Suite
+
+## ONScripter
+* https://github.com/ogapee/www/blob/master/android/ONScripter-20240906-release.apk
+* https://ogapee.github.io/www/android/ONScripter-20240906-release.apk
+* https://ogapee.github.io/www/android/
+
+## ONScripter-Jh
+* https://github.com/jh10001/ONScripter-Jh/releases/download/v0.8.0/onscripter-jh-v0.8.0.universal.apk
+* https://github.com/jh10001/ONScripter-Jh/releases
+
+## ONScripter Plus
+* https://play.google.com/store/apps/details?id=com.onscripter.plus
+
+## 吉里吉里2模拟器, kirikiroid2
+* https://github.com/zeas2/Kirikiroid2/releases/download/1.3.9/Kirikiroid2_1.3.9.apk
+* https://github.com/zeas2/Kirikiroid2/releases
+
+## 吉里吉里2模拟器_yuri
+* https://github.com/YuriSizuku/Kirikiroid2Yuri/releases/download/1.3.9_yuri/Kirikiroid2_yuri_1.3.9.apk
+* https://github.com/YuriSizuku/Kirikiroid2Yuri/releases
+
+## PPSSPP
+* https://www.ppsspp.org/files/1_16_6/ppsspp.apk
+* https://www.ppsspp.org/files/1_18_1/ppsspp.apk
+* https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp
+* https://www.ppsspp.org/download/
