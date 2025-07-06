@@ -24,6 +24,10 @@ My Android Galgame Test Suite
 * https://github.com/YuriSizuku/Kirikiroid2Yuri/releases/download/1.3.9_yuri/Kirikiroid2_yuri_1.3.9.apk
 * https://github.com/YuriSizuku/Kirikiroid2Yuri/releases
 
+## 吉里吉里2模拟器, krkr2
+* https://github.com/2468785842/krkr2/releases/download/v1.4.3/krkr2-1.4.3-arm64-v8a.apk  
+* https://github.com/2468785842/krkr2/releases  
+
 ## PPSSPP
 * https://www.ppsspp.org/files/1_16_6/ppsspp.apk
 * https://www.ppsspp.org/files/1_18_1/ppsspp.apk
