@@ -10,6 +10,10 @@ My Android Galgame Test Suite
 * https://github.com/jh10001/ONScripter-Jh/releases/download/v0.8.0/onscripter-jh-v0.8.0.universal.apk
 * https://github.com/jh10001/ONScripter-Jh/releases
 
+## ONScripter-Yuri
+* https://github.com/YuriSizuku/OnscripterYuri/releases/download/v0.7.4/onsyuri_v0.7.4_android.apk
+* https://github.com/YuriSizuku/OnscripterYuri/releases
+
 ## MiNE
 * https://github.com/ONScripterAppsShare/onscripter/releases/download/ONScripter-MiNE/MiNE-v3.1.9.apk
 * https://github.com/ONScripterAppsShare/onscripter/releases
