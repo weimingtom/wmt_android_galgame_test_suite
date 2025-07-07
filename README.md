@@ -60,3 +60,8 @@ My Android Galgame Test Suite
 ## Winlator
 * https://github.com/brunodev85/winlator/releases/download/v8.0.0/Winlator_8.0.Revision.1.apk
 * https://github.com/brunodev85/winlator/releases
+
+## Exagear
+
+## JoiPlay
+* https://joiplay.org
