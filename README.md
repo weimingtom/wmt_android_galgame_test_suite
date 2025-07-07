@@ -49,3 +49,7 @@ My Android Galgame Test Suite
 * https://www.ppsspp.org/files/1_18_1/ppsspp.apk
 * https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp
 * https://www.ppsspp.org/download/
+
+## Winlator
+* https://github.com/brunodev85/winlator/releases/download/v8.0.0/Winlator_8.0.Revision.1.apk
+* https://github.com/brunodev85/winlator/releases
