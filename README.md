@@ -37,6 +37,8 @@ My Android Galgame Test Suite
 * https://github.com/2468785842/krkr2/releases  
 
 ## Tyranor 
+* ??? I don't know
+* But can you make your own pfs game ? So this apk is not important, you can use Artroid+ instead
 
 ## Artroid+
 * https://myskrpatch.tistory.com/82
