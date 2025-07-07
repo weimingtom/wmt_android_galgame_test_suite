@@ -39,6 +39,7 @@ My Android Galgame Test Suite
 ## Tyranor 
 
 ## Artroid+
+* https://myskrpatch.tistory.com/82
 
 ## RLVM
 * https://github.com/xyzz/rlvm/releases/download/android-1/rlvm-1.apk  
