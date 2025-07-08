@@ -77,3 +77,7 @@ My Android Galgame Test Suite
 * https://dl.komodo.jp/rpgmakerweb/run-time-packages/xp_rtp104e.exe
 * https://dl.komodo.jp/rpgmakerweb/run-time-packages/RPGVXAce_RTP.zip
 
+## android-mkxp
+* https://github.com/pulsejet/android-mkxp/releases/download/v1.0.0/android-mkxp-release.apk
+* https://github.com/pulsejet/android-mkxp/releases
+* https://github.com/pulsejet/android-mkxp-java
