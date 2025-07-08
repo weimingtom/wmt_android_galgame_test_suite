@@ -60,8 +60,13 @@ My Android Galgame Test Suite
 ## Winlator
 * https://github.com/brunodev85/winlator/releases/download/v8.0.0/Winlator_8.0.Revision.1.apk
 * https://github.com/brunodev85/winlator/releases
+* Need set LC_ALL to zh_CN.UTF-8 or zh_CN.GBK
+* Need copy C:\Windows\Fonts\simsun.ttc (like Win11) into Fonts folder in winlator
 
 ## Exagear
+* https://github.com/szllzs/EXAGEAR-ED301-
+* Need some settings, not sure
 
 ## JoiPlay
 * https://joiplay.org
+* Need test
