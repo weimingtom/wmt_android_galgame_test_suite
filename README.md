@@ -70,6 +70,7 @@ My Android Galgame Test Suite
 ## JoiPlay
 * https://joiplay.org
 * https://github.com/joiplay/android-mkxp
+* Need plugin version higher than main apk (?)
 * Need rtp
 * https://www.rpgmakerweb.com/run-time-package
 * https://dl.komodo.jp/rpgmakerweb/run-time-packages/vx_rtp102e.zip
