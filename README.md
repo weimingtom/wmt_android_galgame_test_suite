@@ -69,4 +69,11 @@ My Android Galgame Test Suite
 
 ## JoiPlay
 * https://joiplay.org
-* Need test
+* Need rtp
+* https://www.rpgmakerweb.com/run-time-package
+* https://dl.komodo.jp/rpgmakerweb/run-time-packages/vx_rtp102e.zip
+* https://dl.komodo.jp/rpgmakerweb/run-time-packages/rpg2003_rtp_installer.zip
+* https://dl.komodo.jp/rpgmakerweb/run-time-packages/rpg2000_rtp_installer.exe
+* https://dl.komodo.jp/rpgmakerweb/run-time-packages/xp_rtp104e.exe
+* https://dl.komodo.jp/rpgmakerweb/run-time-packages/RPGVXAce_RTP.zip
+
