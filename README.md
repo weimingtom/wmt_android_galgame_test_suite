@@ -82,3 +82,10 @@ My Android Galgame Test Suite
 * https://github.com/pulsejet/android-mkxp/releases/download/v1.0.0/android-mkxp-release.apk
 * https://github.com/pulsejet/android-mkxp/releases
 * https://github.com/pulsejet/android-mkxp-java
+
+## 小鸡模拟器 feat. MiNE
+* https://www.xiaoji001.com
+
+## (Just a downloader) 小马模拟器, but no ONS support  
+* http://www.ponyemu.com
+* Don't ask me why, just record
