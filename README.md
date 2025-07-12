@@ -89,3 +89,8 @@ My Android Galgame Test Suite
 ## (Just a downloader) 小马模拟器, but no ONS support  
 * http://www.ponyemu.com
 * Don't ask me why, just record
+
+## 爱吾游戏宝盒(爱吾ONScripter) feat. ONScripter Plus
+* https://m.25game.com/market.html
+* https://www.25game.com
+* But this apk need login and real name, not recommended
