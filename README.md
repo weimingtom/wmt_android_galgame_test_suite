@@ -83,7 +83,7 @@ My Android Galgame Test Suite
 * https://github.com/pulsejet/android-mkxp/releases
 * https://github.com/pulsejet/android-mkxp-java
 
-# pymo
+## pymo
 * https://www.pymogames.com/install.html
 * https://sourceforge.net/projects/pymo/files/pymo_1.2/pymo_v1_2_0_for_Android.apk/download
 
@@ -98,3 +98,6 @@ My Android Galgame Test Suite
 * https://m.25game.com/market.html
 * https://www.25game.com
 * But this apk need login and real name, not recommended
+
+## Emulators on Android, most links dead
+* https://emulation.fandom.com/wiki/Emulators_on_Android
