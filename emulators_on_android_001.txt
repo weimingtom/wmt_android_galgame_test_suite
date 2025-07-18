@@ -1,0 +1,166 @@
+from https://emulation.fandom.com/wiki/Emulators_on_Android
+
+
+Emulators on Android
+SIGN IN TO EDIT
+
+Contents
+1	Multi-System
+2	Arcade
+3	Consoles
+3.1	Atari 2600
+3.2	Atari 5200
+3.3	Colecovision
+3.4	Intellivision
+3.5	NES
+3.6	SMS
+3.7	SNES
+3.8	SMD
+3.9	PCE
+3.10	PS1
+3.11	N64
+3.12	Saturn
+3.13	Dreamcast
+3.14	GameCube/Wii
+4	Handheld
+4.1	NGP/NGPC
+4.2	Wonderswan
+4.3	GB/GBC
+4.4	GBA
+4.5	PSP
+4.6	DS
+5	Old computers
+5.1	MSX
+5.2	Atari 800
+5.3	Atari ST
+5.4	Commodore 64
+5.5	Amiga
+5.6	Amstrad CPC
+5.7	DOS
+6	Visual Novel and Graphic Adventure
+6.1	ScummVM
+6.2	ResidualVM
+6.3	NScripter
+6.4	KiriKiri
+7	Virtual Machines
+7.1	Java ME
+7.2	Flash Player
+Video Player is loading.This is a modal window.The media could not be loaded, either because the server or network failed or because the format is not supported.Brand logo
+
+Multi-System
+RetroArch (download) - RetroArch is the best option for Android and it includes many emulators.
+Arcade
+aFBA (Final Burn Alpha)
+Mame4droid (MAME)
+RetroArch (FBA, MAME)
+Happy Chick (FBA) - more stable than retroarch
+Consoles
+Atari 2600
+2600.emu
+Ataroid
+RetroArch (Stella)
+Atari 5200
+Colleen
+Colecovision
+MSX.Emu (This MSX is based on blueMSX and can run Colecovision games)
+Intellivision
+jzintv4droid
+NES
+NES.emu (free or donation)
+RetroArch
+SuperRetro16
+
+ADVERTISEMENT
+SMS
+See MD.emu, a Mega Drive emulator.
+RetroArch (Genesis Plus)
+SNES
+Snes9x EX+ (download)
+RetroArch (Snes9x, bsnes)
+SMD
+MD.Emu (Genesis Plus)(free or donation)
+RetroArch (Genesis Plus, picodrive)
+PCE
+PCE.Emu (Mednafen)(free or donation)
+RetroArch (Mednafen)
+PS1
+RetroArch (PCSX ReARMed Mednafen) - The best option
+FPSe (payware)
+ePSXe (The Android version is payware)
+psx4droid (free, replaced with PCSX ReARMed)
+N64
+Mupen64+AE (free or donation)
+RetroArch (Mupen64Plus)
+Saturn
+Saturn.Emu (free or donation)(Yabause)
+
+ADVERTISEMENT
+Dreamcast
+Reicast
+nullDCe
+GameCube/Wii
+Dolphin (but not yet playable even on the fastest devices)
+Handheld
+NGP/NGPC
+NGP.Emu (NeoPop)(free or donation)
+RetroArch (NeoPop)
+Wonderswan
+WonderDroid
+RetroArch (Mednafen)
+GB/GBC
+See GBA.Emu, a GBA emulator.
+GBC.Emu (Gambatte)(free or donation)
+GBCoid
+RetroArch (Gambatte)
+GBA
+GBA.Emu (VBA-M)(free or donation)
+GameBoid
+RetroArch (VBA-M)
+PSP
+PPSSPP (free or donation)
+RetroArch (PPSSPP)
+
+ADVERTISEMENT
+DS
+DraStic (payware)
+nds4droid (Desmume)(slow)
+RetroArch (Desmume)
+Old computers
+MSX
+MSX.Emu (blueMSX)(free or donation)
+Atari 800
+Colleen
+Atari ST
+Hataroid
+Commodore 64
+Frodo 64
+Vice
+Amiga
+Uae4all2
+Uae4all2
+Amstrad CPC
+andCPC
+DOS
+DOSBox ports
+adosbox
+magicbox
+
+ADVERTISEMENT
+Visual Novel and Graphic Adventure
+ScummVM
+ScummVM
+ResidualVM
+ResidualVM (Android port)
+NScripter
+onscripter
+KiriKiri
+Habakiri
+Virtual Machines
+Java ME
+JBed
+J2ME Runner
+Flash Player
+Adobe Flash Player
+Categories
+Community content is available under CC-BY-SA unless otherwise noted.
+
