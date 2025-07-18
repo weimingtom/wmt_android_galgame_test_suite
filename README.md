@@ -83,6 +83,10 @@ My Android Galgame Test Suite
 * https://github.com/pulsejet/android-mkxp/releases
 * https://github.com/pulsejet/android-mkxp-java
 
+# pymo
+* https://www.pymogames.com/install.html
+* https://sourceforge.net/projects/pymo/files/pymo_1.2/pymo_v1_2_0_for_Android.apk/download
+
 ## 小鸡模拟器 feat. MiNE
 * https://www.xiaoji001.com
 
