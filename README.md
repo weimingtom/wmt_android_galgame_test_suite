@@ -1,6 +1,18 @@
 # wmt_android_galgame_test_suite
 My Android Galgame Test Suite
 
+## [Very Recommended] Moonlight
+* https://github.com/moonlight-stream/moonlight-android/releases/download/v12.1/app-nonRoot-release.apk
+* https://github.com/moonlight-stream/moonlight-android/releases/
+* But you need a AMD64 Windows PC with Sunshine installed  
+https://github.com/LizardByte/Sunshine/releases/download/v2025.719.143211/Sunshine-Windows-AMD64-installer.exe  
+https://github.com/LizardByte/Sunshine/releases     
+https://app.lizardbyte.dev/Sunshine/?lng=en   
+and ViGEmBus  
+https://github.com/nefarius/ViGEmBus/releases/download/v1.22.0/ViGEmBus_1.22.0_x64_x86_arm64.exe  
+https://github.com/nefarius/ViGEmBus/releases  
+* But you should not play music rhythm games with it  
+
 ## ONScripter
 * https://github.com/ogapee/www/blob/master/android/ONScripter-20240906-release.apk
 * https://ogapee.github.io/www/android/ONScripter-20240906-release.apk
