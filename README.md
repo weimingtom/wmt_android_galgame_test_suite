@@ -2,6 +2,7 @@
 My Android Galgame Test Suite
 
 ## [Very Recommended] Moonlight
+* https://play.google.com/store/apps/details?id=com.limelight  
 * https://github.com/moonlight-stream/moonlight-android/releases/download/v12.1/app-nonRoot-release.apk
 * https://github.com/moonlight-stream/moonlight-android/releases/
 * But you need a AMD64 Windows PC with Sunshine installed  
@@ -18,6 +19,7 @@ https://github.com/nefarius/ViGEmBus/releases
 * https://github.com/ogapee/www/blob/master/android/ONScripter-20240906-release.apk
 * https://ogapee.github.io/www/android/ONScripter-20240906-release.apk
 * https://ogapee.github.io/www/android/
+* (dead) https://play.google.com/store/apps/details?id=jp.ogapee.onscripter.release  
 
 ## ONScripter-Jh
 * https://github.com/jh10001/ONScripter-Jh/releases/download/v0.8.0/onscripter-jh-v0.8.0.universal.apk
@@ -59,12 +61,16 @@ https://github.com/nefarius/ViGEmBus/releases
 ## RLVM
 * https://github.com/xyzz/rlvm/releases/download/android-1/rlvm-1.apk  
 * https://github.com/xyzz/rlvm/releases/tag/android-1  
+* https://forums.fuwanovel.moe/topic/3541-rlvm-for-android  
+* (dead) https://play.google.com/store/apps/details?id=is.xyz.rlvm  
 
 ## EasyRPG
 * https://easyrpg.org/downloads/player/0.8/easyrpg-player-0.8-android.apk
 * https://easyrpg.org/downloads/player/0.8/
 
 ## PPSSPP
+* https://play.google.com/store/apps/details?id=org.ppsspp.ppssppgold
+* https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp
 * https://www.ppsspp.org/files/1_16_6/ppsspp.apk
 * https://www.ppsspp.org/files/1_18_1/ppsspp.apk
 * https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp
