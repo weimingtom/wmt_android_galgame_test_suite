@@ -124,3 +124,25 @@ https://github.com/nefarius/ViGEmBus/releases
 * [ResidualVM, ResidualVM (Android port)] http://anddev.at.ua/load/residualvm_0_2_0git861e696_dirty/1-1-0-19
 * [NScripter, onscripter] https://play.google.com/store/apps/details?id=jp.ogapee.onscripter.release
 * [KiriKiri, Habakiri] http://kaede-software.com/android/tvp/
+
+## Visual Novels on Mobile
+* https://www.reddit.com/r/visualnovels/comments/1gj6kcd/visual_novels_on_mobile
+```
+Link for games with Android port: https://vndb.org/v?q=&sb=Search%21&ch=&f=4oand&s=26w
+
+Link for game that use KiriKiri engine (can be played with Kirikiriroid2): https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=fwKiriKiri-
+
+Link for Artemis engine game (play with Artroid): https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=fwArtemis_0Engine-
+
+Otherwise, try WIndows/other consoles emulation, like Winlator, Exagear, PPSSPP, RetroArch, etc
+
+EDIT: Forgot about several more engines
+
+Ren'Py (play with JoiPlay): https://vndb.org/r?q=&o=a&s=title&f=fwRen_7Py-
+
+RPG Maker (dunno if this counts as VN, but it's on VNDB. Play with JoiPlay): https://vndb.org/r?q=&sb=Search%21&o=a&s=title&f=fwRPG_0Ma
+
+Some Key game (the ones that use the RealLive engine) can be play without Windows emulator with rlvm. I have no idea how that works, and haven't tried for myself. Can be download here (Android 14 onward must use the "adb install --bypass-low-target-sdk-block file.apk" command to install the app): https://m.apkpure.com/rlvm/is.xyz.rlvm
+```
+* https://zeroforcetranslations.wordpress.com
+* https://taiyakiclub.wordpress.com/2025/02/01/clannad-no-android-e-na-steam
