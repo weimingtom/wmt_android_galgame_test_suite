@@ -120,3 +120,7 @@ https://github.com/nefarius/ViGEmBus/releases
 
 ## Emulators on Android, most links dead
 * https://emulation.fandom.com/wiki/Emulators_on_Android
+* [ScummVM] https://play.google.com/store/apps/details?id=org.scummvm.scummvm
+* [ResidualVM, ResidualVM (Android port)] http://anddev.at.ua/load/residualvm_0_2_0git861e696_dirty/1-1-0-19
+* [NScripter, onscripter] https://play.google.com/store/apps/details?id=jp.ogapee.onscripter.release
+* [KiriKiri, Habakiri] http://kaede-software.com/android/tvp/
