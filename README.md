@@ -39,6 +39,12 @@ https://github.com/nefarius/ViGEmBus/releases
 * https://github.com/butter255/emu/releases
 * NOTE: I use 2.0.18  
 
+## org.hanenoshino.onscripter, by Kamikat, 2013-10-29, F-Droid
+* https://f-droid.org/archive/org.hanenoshino.onscripter_20120310.apk
+* https://github.com/kamikat/onscripter/tree/gbk
+* https://github.com/kamikat/onscripter/tree/master
+* https://apt.izzysoft.de/fdroid/index/apk/org.hanenoshino.onscripter?repo=archive
+
 ## 吉里吉里2模拟器, kirikiroid2
 * https://github.com/zeas2/Kirikiroid2/releases/download/1.3.9/Kirikiroid2_1.3.9.apk
 * https://github.com/zeas2/Kirikiroid2/releases
