@@ -51,6 +51,10 @@ https://github.com/nefarius/ViGEmBus/releases
 * https://github.com/2468785842/krkr2/releases/download/v1.4.3/krkr2-1.4.3-arm64-v8a.apk  
 * https://github.com/2468785842/krkr2/releases  
 
+## Kirikiroid2-debloated
+* https://github.com/enaix/Kirikiroid2-debloated/releases/download/v1.2-pre/Kirikiroid2_yuri_1.4.1_debloated.apk  
+* https://github.com/enaix/Kirikiroid2-debloated/releases  
+
 ## Tyranor 
 * ??? I don't know
 * But can you make your own pfs game ? So this apk is not important, you can use Artroid+ instead
@@ -118,6 +122,9 @@ https://github.com/nefarius/ViGEmBus/releases
 * https://www.25game.com
 * But this apk need login and real name, not recommended
 
+## ? termux, why??? 
+* https://termux.dev/en/
+
 ## Emulators on Android, most links dead
 * https://emulation.fandom.com/wiki/Emulators_on_Android
 * [ScummVM] https://play.google.com/store/apps/details?id=org.scummvm.scummvm
@@ -146,3 +153,7 @@ Some Key game (the ones that use the RealLive engine) can be play without Window
 ```
 * https://zeroforcetranslations.wordpress.com
 * https://taiyakiclub.wordpress.com/2025/02/01/clannad-no-android-e-na-steam
+
+## Visual Novel Wiki
+* https://www.vnwiki.xyz
+* https://www.reddit.com/r/SteamDeck/comments/vuy16t/i_made_a_steam_deck_guide_for_vns_the_definitive/?tl=zh-hans
