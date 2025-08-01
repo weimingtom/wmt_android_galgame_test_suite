@@ -92,8 +92,8 @@ https://github.com/nefarius/ViGEmBus/releases
 * Need set LC_ALL to zh_CN.UTF-8 or zh_CN.GBK
 * Need copy C:\Windows\Fonts\simsun.ttc (like Win11) into Fonts folder in winlator
 
-## Exagear
-* https://github.com/szllzs/EXAGEAR-ED301-
+## (not recommended, too many malwares) ExaGear
+* (Not testd, don't use) https://github.com/szllzs/EXAGEAR-ED301-
 * Need some settings, not sure
 * (EGW:302, Put exe into ExaGear Folder, no locale, can run exe) https://github.com/XHYN-PH/exagear-302/releases/download/v3.0.2.2-egw/EGW_302_signed.apk
 * (Can install, but run exe failed, Put exe into ExaGear Folder) ET350
