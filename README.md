@@ -95,6 +95,7 @@ https://github.com/nefarius/ViGEmBus/releases
 ## Exagear
 * https://github.com/szllzs/EXAGEAR-ED301-
 * Need some settings, not sure
+* (no locale, can run) https://github.com/XHYN-PH/exagear-302/releases/download/v3.0.2.2-egw/EGW_302_signed.apk
 
 ## JoiPlay
 * https://joiplay.org
