@@ -95,7 +95,9 @@ https://github.com/nefarius/ViGEmBus/releases
 ## Exagear
 * https://github.com/szllzs/EXAGEAR-ED301-
 * Need some settings, not sure
-* (no locale, can run) https://github.com/XHYN-PH/exagear-302/releases/download/v3.0.2.2-egw/EGW_302_signed.apk
+* (EGW:302, Put exe into ExaGear Folder, no locale, can run exe) https://github.com/XHYN-PH/exagear-302/releases/download/v3.0.2.2-egw/EGW_302_signed.apk
+* (Can install, but run exe failed, Put exe into ExaGear Folder) ET350
+* (Install failed, malicious software) ED301
 
 ## JoiPlay
 * https://joiplay.org
