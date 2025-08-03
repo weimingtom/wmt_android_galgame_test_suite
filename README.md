@@ -95,9 +95,16 @@ https://github.com/nefarius/ViGEmBus/releases
 ## (not recommended, too many malwares) ExaGear
 * (Not tested, don't use) https://github.com/szllzs/EXAGEAR-ED301-
 * Need some settings, not sure
-* (EGW:302, Put exe into ExaGear Folder, no locale, can run exe) https://github.com/XHYN-PH/exagear-302/releases/download/v3.0.2.2-egw/EGW_302_signed.apk
-* (Can install, but run exe failed, Put exe into ExaGear Folder) ET350
-* (Install failed, malicious software) ED301
+* (Only rg505 installed and tesed, but most phones install failed because of malicious software. Put exe into Download Folder. Can change locale) ED301, ExaGear ED
+```
+用RG505可以装ExaGear，如果用其他手机装会失败。但其实还是不如winlator好用，
+exagear也是用download目录作为其中一个盘符，
+它唯一的好处是可以方便设置LC_ALL环境变量，其他就不如winlator的兼容能力了，
+很大可能会启动不了exe ​​​
+```
+* (Can install, but run exe failed, Put exe into ExaGear Folder, can change locale, smaller) ET350, ExaGear ET
+* (EGW:302, Put exe into ExaGear Folder, no locale, can run exe) https://github.com/XHYN-PH/exagear-302/releases/download/v3.0.2.2-egw/EGW_302_signed.apk  
+same as exagear.net-windows-emulator-3-0-2.apk from https://exagear.net/exagear-emulator-apk/  
 
 ## JoiPlay
 * https://joiplay.org
