@@ -24,6 +24,7 @@ https://github.com/nefarius/ViGEmBus/releases
 ## ONScripter-Jh
 * https://github.com/jh10001/ONScripter-Jh/releases/download/v0.8.0/onscripter-jh-v0.8.0.universal.apk
 * https://github.com/jh10001/ONScripter-Jh/releases
+* ONS模拟器+krkr模拟器+游戏资源站.zip
 
 ## ONScripter-Yuri
 * https://github.com/YuriSizuku/OnscripterYuri/releases/download/v0.7.4/onsyuri_v0.7.4_android.apk
@@ -48,6 +49,7 @@ https://github.com/nefarius/ViGEmBus/releases
 ## 吉里吉里2模拟器, kirikiroid2
 * https://github.com/zeas2/Kirikiroid2/releases/download/1.3.9/Kirikiroid2_1.3.9.apk
 * https://github.com/zeas2/Kirikiroid2/releases
+* ONS模拟器+krkr模拟器+游戏资源站.zip
 
 ## 吉里吉里2模拟器_yuri
 * https://github.com/YuriSizuku/Kirikiroid2Yuri/releases/download/1.3.9_yuri/Kirikiroid2_yuri_1.3.9.apk
