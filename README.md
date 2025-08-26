@@ -71,6 +71,7 @@ https://github.com/nefarius/ViGEmBus/releases
 * Tyranor.apk, Tyranor 1.5.6, supports Android 10 and old devices   
 * Tyranor_2.2.2.apk; 2.x only for aarch64 and new Android devices (?)     
 * (newer) Tyranor-2.3.2208.apk
+* Support many engines, but not sure all are available, old version may run some games failed.  
 
 ## Artroid+
 * https://myskrpatch.tistory.com/82
