@@ -103,7 +103,7 @@ https://github.com/nefarius/ViGEmBus/releases
 ## (not recommended, too many malwares) ExaGear
 * (Not tested, don't use) https://github.com/szllzs/EXAGEAR-ED301-
 * Need some settings, not sure
-* (Only rg505 installed and tesed, but most phones install failed because of malicious software. Put exe into Download Folder. Can change locale) ED301, ExaGear ED
+* (Only rg505 installed and tested, but most phones fail to install because of malicious software. Put exe into Download Folder. Can change locale) ED301, ExaGear ED
 ```
 用RG505可以装ExaGear，如果用其他手机装会失败。但其实还是不如winlator好用，
 exagear也是用download目录作为其中一个盘符，
