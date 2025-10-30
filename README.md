@@ -46,6 +46,9 @@ https://github.com/nefarius/ViGEmBus/releases
 * https://github.com/kamikat/onscripter/tree/master
 * https://apt.izzysoft.de/fdroid/index/apk/org.hanenoshino.onscripter?repo=archive
 
+## ONScripter-zero
+* https://github.com/zeromake/ONScripter-zero/releases
+
 ## 吉里吉里2模拟器, kirikiroid2
 * https://github.com/zeas2/Kirikiroid2/releases/download/1.3.9/Kirikiroid2_1.3.9.apk
 * https://github.com/zeas2/Kirikiroid2/releases
