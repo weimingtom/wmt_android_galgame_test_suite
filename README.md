@@ -5,6 +5,7 @@ My Android Galgame Test Suite
 * https://play.google.com/store/apps/details?id=com.limelight  
 * https://github.com/moonlight-stream/moonlight-android/releases/download/v12.1/app-nonRoot-release.apk
 * https://github.com/moonlight-stream/moonlight-android/releases/
+* moonlight-android_v12.1_app-nonRoot-release.apk
 * But you need a AMD64 Windows PC with Sunshine installed  
 (sunshine.exe is 2025/06/28, but mine is 2025/4/21 and 0.23.1.0) https://github.com/LizardByte/Sunshine/releases/download/v2025.628.4510/sunshine-windows-installer.exe   
 (not testd) https://github.com/LizardByte/Sunshine/releases/download/v2025.719.143211/Sunshine-Windows-AMD64-installer.exe   
