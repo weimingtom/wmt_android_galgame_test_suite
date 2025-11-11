@@ -201,3 +201,5 @@ ppsspp_libretro_android.so.zip
 * https://buildbot.libretro.com/stable
 * https://buildbot.libretro.com/nightly
 * https://github.com/libretro/RetroArch/releases/tag/v1.21.0
+* (Newest, need to be built by yourself) https://github.com/YuriSizuku/OnscripterYuri/tree/master/src/onsyuri_libretro  
+* (Old, need to be built by yourself) https://github.com/iyzsong/onscripter-libretro  
