@@ -120,9 +120,18 @@ exagear也是用download目录作为其中一个盘符，
 * (EGW:302, Put exe into ExaGear Folder, no locale, can run exe) https://github.com/XHYN-PH/exagear-302/releases/download/v3.0.2.2-egw/EGW_302_signed.apk  
 same as exagear.net-windows-emulator-3-0-2.apk from https://exagear.net/exagear-emulator-apk/  
 
-## JoiPlay feet. Ren'Py / RPG Maker (2k, 2k3, xp, EasyRPG, mkxp, mkxp-z) / ONScripter (experimental) / Kirikiroid2 (experimental)     
+## JoiPlay feet. Ren'Py / RPG Maker (2k, 2k3, xp, EasyRPG, mkxp, mkxp-z) / ONScripter-Yuri (experimental) / Kirikiroid2 (experimental)     
 * https://joiplay.org  
+* https://github.com/joiplay/renpy
+* https://github.com/joiplay/rapt
+* https://github.com/joiplay/renpy-build
+* https://github.com/joiplay/mkxp
 * https://github.com/joiplay/android-mkxp  
+* https://github.com/joiplay/Onscripter
+* https://github.com/joiplay/onscripter-engine-android
+* https://github.com/joiplay/Kirikiroid2
+* https://github.com/joiplay/Kirikiroid2_patch
+* https://github.com/joiplay/ruffle
 * Need rtp  
 https://www.rpgmakerweb.com/run-time-package  
 https://dl.komodo.jp/rpgmakerweb/run-time-packages/vx_rtp102e.zip  
