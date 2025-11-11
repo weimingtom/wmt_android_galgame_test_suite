@@ -120,16 +120,19 @@ exagear也是用download目录作为其中一个盘符，
 * (EGW:302, Put exe into ExaGear Folder, no locale, can run exe) https://github.com/XHYN-PH/exagear-302/releases/download/v3.0.2.2-egw/EGW_302_signed.apk  
 same as exagear.net-windows-emulator-3-0-2.apk from https://exagear.net/exagear-emulator-apk/  
 
-## JoiPlay
-* https://joiplay.org
-* https://github.com/joiplay/android-mkxp
-* Need rtp
-* https://www.rpgmakerweb.com/run-time-package
-* https://dl.komodo.jp/rpgmakerweb/run-time-packages/vx_rtp102e.zip
-* https://dl.komodo.jp/rpgmakerweb/run-time-packages/rpg2003_rtp_installer.zip
-* https://dl.komodo.jp/rpgmakerweb/run-time-packages/rpg2000_rtp_installer.exe
-* https://dl.komodo.jp/rpgmakerweb/run-time-packages/xp_rtp104e.exe
-* https://dl.komodo.jp/rpgmakerweb/run-time-packages/RPGVXAce_RTP.zip
+## JoiPlay  
+* https://joiplay.org  
+* https://github.com/joiplay/android-mkxp  
+* Need rtp  
+https://www.rpgmakerweb.com/run-time-package  
+* https://dl.komodo.jp/rpgmakerweb/run-time-packages/vx_rtp102e.zip  
+https://dl.komodo.jp/rpgmakerweb/run-time-packages/rpg2003_rtp_installer.zip  
+https://dl.komodo.jp/rpgmakerweb/run-time-packages/rpg2000_rtp_installer.exe  
+https://dl.komodo.jp/rpgmakerweb/run-time-packages/xp_rtp104e.exe  
+https://dl.komodo.jp/rpgmakerweb/run-time-packages/RPGVXAce_RTP.zip  
+* apks.7z, Kirikiri2Plugin_1.00.00 - 2024-03-28T010219.536.apk, NScripterPLugin_1.00.00 - 2024-03-28T010108.056.apk  
+https://tieba.baidu.com/p/9071365782   
+https://www.bilibili.com/video/BV1Sm411B7M9/?vd_source=8aac237d3ed1fe24370f8df03ab1993d   
 
 ## android-mkxp
 * https://github.com/pulsejet/android-mkxp/releases/download/v1.0.0/android-mkxp-release.apk
