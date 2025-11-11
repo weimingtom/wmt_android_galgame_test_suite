@@ -189,10 +189,12 @@ Some Key game (the ones that use the RealLive engine) can be play without Window
 * https://www.vnwiki.xyz
 * https://www.reddit.com/r/SteamDeck/comments/vuy16t/i_made_a_steam_deck_guide_for_vns_the_definitive/?tl=zh-hans
 
-## RetroArch, you need use it with some core files (downloaded in the app or built by yourself) to play the galgames, like easyrpg_libretro_android.so.zip or onscripter_libretro or onsyuri_libretro       
+## RetroArch  
+* You need use it with some core files (downloaded in the app or built by yourself) to play the galgames, like easyrpg_libretro_android.so.zip or or ppsspp_libretro_android.so.zip onscripter_libretro or onsyuri_libretro     
 * https://www.retroarch.com/index.php?page=platforms  
 * core files: https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/  
-easyrpg_libretro_android.so.zip  
+easyrpg_libretro_android.so.zip    
+ppsspp_libretro_android.so.zip  
 * https://buildbot.libretro.com/stable/1.21.0/android/RetroArch.apk
 * https://buildbot.libretro.com/stable/1.21.0/android/RetroArch_aarch64.apk
 * https://buildbot.libretro.com/stable/1.21.0/android/RetroArch_ra32.apk
