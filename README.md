@@ -145,7 +145,7 @@ cyou.joiplay.renpy.apk
 cyou.joiplay.rpgm.apk  
 * apks.7z, Kirikiri2Plugin_1.00.00 - 2024-03-28T010219.536.apk, NScripterPLugin_1.00.00 - 2024-03-28T010108.056.apk  
 https://tieba.baidu.com/p/9071365782   
-https://www.bilibili.com/video/BV1Sm411B7M9/?vd_source=8aac237d3ed1fe24370f8df03ab1993d   
+https://www.bilibili.com/video/BV1Sm411B7M9  
 
 ## android-mkxp
 * https://github.com/pulsejet/android-mkxp/releases/download/v1.0.0/android-mkxp-release.apk
