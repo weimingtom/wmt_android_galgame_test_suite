@@ -106,6 +106,7 @@ https://github.com/nefarius/ViGEmBus/releases
 * https://github.com/brunodev85/winlator/releases
 * Need set LC_ALL to zh_CN.UTF-8 or zh_CN.GBK
 * Need copy C:\Windows\Fonts\simsun.ttc (like Win11) into Fonts folder in winlator
+* It may support wolf rpg, see bilibili 狗头wolf与模拟器  
 
 ## (not recommended, too many malwares) ExaGear
 * (Not tested, don't use) https://github.com/szllzs/EXAGEAR-ED301-
