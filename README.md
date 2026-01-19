@@ -110,6 +110,14 @@ https://github.com/nefarius/ViGEmBus/releases
 ```
 (winlator)プロナント・シンフォニー 狗头wolf与模拟器  
 https://www.bilibili.com/video/BV1bHLszuE6f/
+
+我试一下用steam deck跑wolf rpg游戏《Pronant Symphony》体验版好像是可以的
+（虽然要自己设HOST_LC_ALL全局变量和指定wine运行时），用winlator也可以但很卡，
+不如用steam deck，但最好用PC键盘玩，例如Shift会不容易按出来
+（steam deck的三个点按键的右侧菜单下方可以唤出软键盘，但不方便）。
+打输了会怎样？不会怎样，就是回城罢了，如果收集一定的要素可以解锁一些功能，
+但我没玩到那个程度——其实这游戏可能就是界面做得很好看，流畅，比较有趣，
+其他我觉得不是很感兴趣
 ```
 
 ## (not recommended, too many malwares) ExaGear
