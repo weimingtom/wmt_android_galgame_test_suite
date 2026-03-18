@@ -233,3 +233,14 @@ ppsspp_libretro_android.so.zip
 * https://github.com/libretro/RetroArch/releases/tag/v1.21.0
 * (Newest, need to be built by yourself) https://github.com/YuriSizuku/OnscripterYuri/tree/master/src/onsyuri_libretro  
 * (Old, need to be built by yourself) https://github.com/iyzsong/onscripter-libretro  
+
+## MTool Android version and its plugin apks, mtool, for RPG Maker XP/Vx/VxAce  
+* https://mtool.app/?lang=en
+* https://trs.mtool.app/release.php?lang=en
+* 吐槽，这个APP在baidu上面的搜索结果前面的全都是骗人的，但google和bing是正常的
+* 本体apk和plugin两个apk都要安装，但这两个apk实在是太大了，下载比较麻烦
+* 不过测试过一些改造过的rpgmaker xp项目似乎也是跑不起来，脚本会报错
+* 安装教程在https://mtool.app/tutorial.php, 需要把rpgmaker游戏解压后的文件夹复制到内部存储：sdcard://Mtool/Games/<game name>下
+* 然后在APP的游戏库标签页下的列表进入，它会自动安装RTP
+* https://github.com/zths/mkxp-z-android-mtool
+
