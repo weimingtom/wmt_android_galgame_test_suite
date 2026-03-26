@@ -70,15 +70,15 @@ https://github.com/nefarius/ViGEmBus/releases
 
 ## Tyranor 
 * ??? I don't know where
-* (origin ? Not sure) https://t.me/Tyranor/4, or search 'Tyranor-2.3.2208.apk'
+* (origin ? Not sure, **NOT Newest**, the newest is on another web page which I don't know) https://t.me/Tyranor/4, or search 'Tyranor-2.3.2208.apk'
 * (Not sure) wechat gongzhonghao or tieba, https://tieba.baidu.com/f?kw=tyranor&ie=utf-8
 * But can you make your own pfs game ? So this apk is not important, you can use Artroid+ instead
 * Tyranor.apk, Tyranor 1.5.6, supports Android 10 and old devices   
 * Tyranor_2.2.2.apk; 2.x only for aarch64 and new Android devices (?)     
-* (newer) Tyranor-2.3.2208.apk
+* (Newer but **NOT the Newest**) Tyranor-2.3.2208.apk
 * Support many engines, but not sure all are available, old version may fail to run some games.  
 * I doubt it is an apk/dex dynamic loader or repackaged embedded apk
-* See touchgal
+* (The newest but another download source) See touchgal
 
 ## Artroid+
 * https://myskrpatch.tistory.com/82
