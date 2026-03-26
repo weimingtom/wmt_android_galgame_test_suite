@@ -120,7 +120,7 @@ https://www.bilibili.com/video/BV1bHLszuE6f/
 其他我觉得不是很感兴趣
 ```
 
-## (not recommended, too many malwares) ExaGear
+## (Not recommended, too many malwares) ExaGear
 * (Not tested, don't use) https://github.com/szllzs/EXAGEAR-ED301-
 * Need some settings, not sure
 * (Only rg505 installed and tested, but most phones fail to install because of malicious software. Put exe into Download Folder. Can change locale) ED301, ExaGear ED
@@ -244,4 +244,7 @@ ppsspp_libretro_android.so.zip
 * 安装教程在https://mtool.app/tutorial.php, 需要把rpgmaker游戏解压后的文件夹复制到内部存储：sdcard://Mtool/Games/<game name>下
 * 然后在APP的游戏库标签页下的列表进入，它会自动安装RTP
 * https://github.com/zths/mkxp-z-android-mtool
+
+## mkxp-z-android  
+* https://github.com/thehatkid/mkxp-z-android
 
