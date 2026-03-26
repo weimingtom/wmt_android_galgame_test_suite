@@ -134,7 +134,7 @@ exagear也是用download目录作为其中一个盘符，
 * (EGW:302, Put exe into ExaGear Folder, no locale, can run exe) https://github.com/XHYN-PH/exagear-302/releases/download/v3.0.2.2-egw/EGW_302_signed.apk  
 same as exagear.net-windows-emulator-3-0-2.apk from https://exagear.net/exagear-emulator-apk/  
 
-## JoiPlay feet. Ren'Py / RPG Maker (2k, 2k3, xp, EasyRPG, mkxp, mkxp-z) / ONScripter-Yuri (experimental) / Kirikiroid2 (experimental)     
+## JoiPlay feat. Ren'Py / RPG Maker (2k, 2k3, xp, EasyRPG, mkxp, mkxp-z) / ONScripter-Yuri (experimental) / Kirikiroid2 (experimental)     
 * https://joiplay.org  
 * https://github.com/joiplay/renpy
 * https://github.com/joiplay/rapt
