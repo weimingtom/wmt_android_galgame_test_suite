@@ -170,6 +170,11 @@ https://www.bilibili.com/video/BV1Sm411B7M9
 * https://www.pymogames.com/install.html
 * https://sourceforge.net/projects/pymo/files/pymo_1.2/pymo_v1_2_0_for_Android.apk/download
 
+## CPyMO
+* https://github.com/Strrationalism/CPyMO/releases/tag/v1.1.9  
+* https://github.com/Strrationalism/CPyMO/releases/download/v1.1.9/CPyMO.for.Android.zip  
+* https://github.com/Strrationalism/CPyMO/releases/download/v1.1.9/CPyMO.for.Android.Accessibility.zip  
+
 ## 小鸡模拟器 feat. MiNE
 * https://www.xiaoji001.com
 
