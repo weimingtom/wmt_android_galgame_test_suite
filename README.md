@@ -247,4 +247,6 @@ ppsspp_libretro_android.so.zip
 
 ## mkxp-z-android  
 * https://github.com/thehatkid/mkxp-z-android
+* https://github.com/BookerRues9/mkxp-z-android-reworked/releases/tag/build
+* https://github.com/BookerRues9/mkxp-z-android-reworked/releases/download/build/mkxp-z-0.1.1-universal-debug.apk
 
