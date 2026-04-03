@@ -26,11 +26,30 @@ https://github.com/nefarius/ViGEmBus/releases
 * https://github.com/jh10001/ONScripter-Jh/releases/download/v0.8.0/onscripter-jh-v0.8.0.universal.apk
 * https://github.com/jh10001/ONScripter-Jh/releases
 * ONS模拟器+krkr模拟器+游戏资源站.zip
+* https://github.com/butter255/emu/releases/download/0.0.2/ONScripter-Jh-sdl2.general.apk
+* https://github.com/butter255/emu/releases/download/0.0.2/ONScripter-Jh-sdl2.ipa
+* https://github.com/butter255/emu/releases/download/0.0.2/ONScripter-Jh_0.7.6.arm64.apk
+* https://github.com/butter255/emu/releases/download/0.0.2/ONScripter-Jh_0.7.6.avx2.7z
+* https://github.com/butter255/emu/releases/download/0.0.2/ONScripter-Jh_0.7.6.neon.apk
+* https://github.com/butter255/emu/releases/download/0.0.2/ONScripter-Jh_0.7.6.universal.apk
+* https://github.com/butter255/emu/releases/download/0.0.2/ONScripter-Jh_0.7.6.x86.apk
 
 ## ONScripter-Yuri
 * https://github.com/YuriSizuku/OnscripterYuri/releases/download/v0.7.4/onsyuri_v0.7.4_android.apk
 * https://github.com/YuriSizuku/OnscripterYuri/releases
 * ??????? former name ONScripter-GBK-ACGF.apk ???????
+
+## ONScripter-ACGF
+* https://github.com/butter255/emu/releases/download/0.1.3/ONS.16._v20111124.apk
+* https://github.com/butter255/emu/releases/download/0.1.3/ONS.16._v20120101.apk
+* https://github.com/butter255/emu/releases/download/0.1.3/ONS.32._v20111124.apk
+* https://github.com/butter255/emu/releases/download/0.1.3/ONS.32._v20120101.apk
+* https://github.com/butter255/emu/releases/download/0.1.3/ONScripter-0525.apk
+* https://github.com/butter255/emu/releases/download/0.1.3/ONScripter-0607.apk
+* https://github.com/butter255/emu/releases/download/0.1.3/ONScripter-0619.apk
+* https://github.com/butter255/emu/releases/download/0.1.3/ONScripter-0810.apk
+* https://github.com/butter255/emu/releases/download/0.1.3/ONScripter-20111111-16.apk
+* https://github.com/butter255/emu/releases/download/0.1.3/ONScripter-20111111-32.apk
 
 ## MiNE
 * https://github.com/ONScripterAppsShare/onscripter/releases/download/ONScripter-MiNE/MiNE-v3.1.9.apk
@@ -41,6 +60,7 @@ https://github.com/nefarius/ViGEmBus/releases
 * https://github.com/butter255/emu/releases/download/ONScripter-PLUS/Onscripter-Plus_2.0.16.apk  
 * https://github.com/butter255/emu/releases
 * NOTE: I use 2.0.18  
+* butter255其实是个入口, 模拟器只是附带的    
 
 ## org.hanenoshino.onscripter, by Kamikat, 2013-10-29, F-Droid
 * https://f-droid.org/archive/org.hanenoshino.onscripter_20120310.apk
@@ -55,10 +75,14 @@ https://github.com/nefarius/ViGEmBus/releases
 * https://github.com/zeas2/Kirikiroid2/releases/download/1.3.9/Kirikiroid2_1.3.9.apk
 * https://github.com/zeas2/Kirikiroid2/releases
 * ONS模拟器+krkr模拟器+游戏资源站.zip
+* https://github.com/butter255/emu/releases/download/krkr2/Kirikiroid2_1.3.4.apk
+* https://github.com/butter255/emu/releases/download/krkr2/Kirikiroid2_1.3.9.apk
+* https://github.com/butter255/emu/releases/download/krkr2/Kirikiroid2_1.3.9.ipa
 
 ## 吉里吉里2模拟器_yuri
 * https://github.com/YuriSizuku/Kirikiroid2Yuri/releases/download/1.3.9_yuri/Kirikiroid2_yuri_1.3.9.apk
 * https://github.com/YuriSizuku/Kirikiroid2Yuri/releases
+* https://github.com/butter255/emu/releases/download/krkr2/Kirikiroid2_yuri_1.3.9.apk  
 
 ## 吉里吉里2模拟器, krkr2
 * https://github.com/2468785842/krkr2/releases/download/v1.4.3/krkr2-1.4.3-arm64-v8a.apk  
