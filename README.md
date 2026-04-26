@@ -281,6 +281,8 @@ ppsspp_libretro_android.so.zip
 https://docs.libretro.com/library/neko_project_ii_kai/  
 https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/  
 https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/np2kai_libretro_android.so.zip  
+https://github.com/AZO234/NP2kai  
+https://domisan.sakura.ne.jp/article/np2kai/np2kai.html  
 
 ## MTool Android version and its plugin apks, mtool, for RPG Maker XP/Vx/VxAce  
 * https://mtool.app/?lang=en
