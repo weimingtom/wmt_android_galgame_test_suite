@@ -299,3 +299,17 @@ https://domisan.sakura.ne.jp/article/np2kai/np2kai.html
 * https://github.com/BookerRues9/mkxp-z-android-reworked/releases/tag/build
 * https://github.com/BookerRues9/mkxp-z-android-reworked/releases/download/build/mkxp-z-0.1.1-universal-debug.apk
 
+## AopAop
+* AopAop is an Android game launcher for RPG Maker MV/MZ
+
+## Neko RPGXP Player
+* https://emulation.gametechwiki.com/index.php/Neko_RPGXP_Player
+```
+Neko RPGXP Player is an  Android application that allows you to play
+games created in various RPG Maker engines. It supports RPG Maker XP,
+VX, VA, and MV.
+```
+
+## Maldives player(RPG MV/MZ)
+* https://play.google.com/store/apps/details?id=net.miririt.maldivesplayer&hl=en_US
+
