@@ -106,6 +106,13 @@ https://github.com/nefarius/ViGEmBus/releases
 * https://github.com/enaix/Kirikiroid2-debloated/releases/download/v1.2-pre/Kirikiroid2_yuri_1.4.1_debloated.apk  
 * https://github.com/enaix/Kirikiroid2-debloated/releases  
 
+## AetherKiri, seems an Unofficial krkr2next apk build release     
+* (**NOTE:You need Android 14 or upper, or you may get a black screen**)       
+* https://github.com/AetherKiri/AetherKiri/releases/tag/0.2.0-beta.1  
+* https://github.com/AetherKiri/AetherKiri/releases/download/0.2.0-beta.1/AetherKiri-0.2.0-beta.1.apk
+* See also https://github.com/reAAAq/KrKr2-Next  
+* See also https://krkr2next.com  
+
 ## Tyranor 
 * ??? I don't know where
 * (origin ? Not sure, **NOT Newest**, the newest is on another web page which I don't know) https://t.me/Tyranor/4, or search 'Tyranor-2.3.2208.apk'
