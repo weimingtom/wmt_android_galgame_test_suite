@@ -123,7 +123,8 @@ https://github.com/nefarius/ViGEmBus/releases
 * (Newer but **NOT the Newest**) Tyranor-2.3.2208.apk
 * Support many engines, but not sure all are available, old version may fail to run some games.  
 * I doubt it is an apk/dex dynamic loader or repackaged embedded apk
-* (The newest but another download source) See touchgal
+* Tyranor_v2.3.4.apk official : https://t.me/Tyranor/13  
+* (The newest but another download source) See touchgal  
 
 ## Artroid+
 * https://myskrpatch.tistory.com/82
