@@ -324,7 +324,8 @@ VX, VA, and MV.
 ## (NO BINARY, NO APK, NO HAP, just record, NOT FOR ANDROID) VintagePomelo, 旧柚, bundle name is com.vintage.pomelo
 * https://appgallery.huawei.com/app/detail?id=com.vintage.pomelo&channelId=SHARE&source=appshare
 * see also (?) https://github.com/luxiaoling-mc/krkrsdl3, but I don't know if it is the same author  
-* Just for HarmonyOS (华为鸿蒙系统), not for Android, for HarmonyOS NEXT（纯血鸿蒙系统——当然纯血也可以装apk，纯血了但也不完全纯血）      
+* Just for HarmonyOS (华为鸿蒙系统), not for Android, for HarmonyOS NEXT（纯血鸿蒙系统——当然纯血也可以装apk，纯血了但也不完全纯血,
+安卓apk可以安装在《卓易通》的app容器兼容层中）      
 ```
 只能用鸿蒙6系统在平板/手机上的华为市场上下载
 无法获取hap安装文件（因为我不知道怎么root）
