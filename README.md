@@ -322,6 +322,7 @@ VX, VA, and MV.
 * https://play.google.com/store/apps/details?id=net.miririt.maldivesplayer&hl=en_US
 
 ## (NO BINARY, NO APK, NO HAP, just record, NOT FOR ANDROID) VintagePomelo, 旧柚, bundle name is com.vintage.pomelo
+* https://appgallery.huawei.com/app/detail?id=com.vintage.pomelo&channelId=SHARE&source=appshare
 * see also (?) https://github.com/luxiaoling-mc/krkrsdl3, but I don't know if it is the same author  
 * Just for HarmonyOS (华为鸿蒙系统), not for Android, for HarmonyOS NEXT（纯血鸿蒙系统——当然纯血也可以装apk，纯血了但也不完全纯血）      
 ```
