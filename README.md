@@ -208,9 +208,10 @@ https://tieba.baidu.com/p/9071365782
 https://www.bilibili.com/video/BV1Sm411B7M9  
 
 ## android-mkxp
-* https://github.com/pulsejet/android-mkxp/releases/download/v1.0.0/android-mkxp-release.apk
+* https://github.com/pulsejet/android-mkxp/releases/download/v1.0.0/android-mkxp-release.apk  
 * https://github.com/pulsejet/android-mkxp/releases
 * https://github.com/pulsejet/android-mkxp-java
+* https://github.com/xperia64/android-mkxp/releases/download/v0.0.0/MKXPActivity.apk  
 
 ## pymo
 * https://www.pymogames.com/install.html
