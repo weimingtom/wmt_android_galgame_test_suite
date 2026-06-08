@@ -125,6 +125,11 @@ https://github.com/nefarius/ViGEmBus/releases
 * I doubt it is an apk/dex dynamic loader or repackaged embedded apk
 * Tyranor_v2.3.4.apk official : https://t.me/Tyranor/13  
 * (The newest but another download source) See touchgal  
+* Tyranor特殊共存版, from 北行软件库
+```
+介乎v2.3.4和v2.3.2208之间的版本, 没有onsyuri模拟器(ONScripter-Yuri 0.7.6beta1)但有kirikiroid2 v1.3.9启动器
+旧的三下巴设计,如果是v2.3.4则是左侧按钮
+```
 
 ## Artroid+
 * https://myskrpatch.tistory.com/82
