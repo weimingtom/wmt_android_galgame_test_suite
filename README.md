@@ -337,3 +337,6 @@ VX, VA, and MV.
 无法获取hap安装文件（因为我不知道怎么root）
 测试过matepadmini可以下载
 ```
+
+## Xclannad.apk (for Chinese patch ??? not sure)  
+* https://github.com/guyanime84/xclannad/blob/main/Xclannad.apk  
