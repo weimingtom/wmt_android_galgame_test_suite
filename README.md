@@ -313,8 +313,17 @@ https://domisan.sakura.ne.jp/article/np2kai/np2kai.html
 * https://github.com/BookerRues9/mkxp-z-android-reworked/releases/tag/build
 * https://github.com/BookerRues9/mkxp-z-android-reworked/releases/download/build/mkxp-z-0.1.1-universal-debug.apk
 
-## AopAop
+## AopAop (no google play's version)      
 * AopAop is an Android game launcher for RPG Maker MV/MZ
+* ===
+* https://web.archive.org/web/20260221184744/https://aopaop.com/
+* Android game launcher for RPG Maker MV/MZ
+* 1.9.49, Sep 06, 2025
+* https://web.archive.org/web/20260221184744/https://aopaop.com/latest.apk
+* AopAop-1.9.49.apk
+* ===
+* AopAop: Android launcher for RPG Maker MV/MZ 1.8.2 release
+* https://forums.rpgmakerweb.com/threads/aopaop-android-launcher-for-rpg-maker-mv-mz-1-8-2-release.159015/
 
 ## Neko RPGXP Player
 * https://emulation.gametechwiki.com/index.php/Neko_RPGXP_Player
