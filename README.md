@@ -276,12 +276,14 @@ Some Key game (the ones that use the RealLive engine) can be play without Window
 * https://www.vnwiki.xyz
 * https://www.reddit.com/r/SteamDeck/comments/vuy16t/i_made_a_steam_deck_guide_for_vns_the_definitive/?tl=zh-hans
 
-## RetroArch feat. EasyRPG/PPSSPP/ONScripter/ONSYuri/NP2KAI and etc      
+## RetroArch feat. EasyRPG/PPSSPP/ONScripter/ONSYuri/NP2KAI/MKXP-Z and etc      
 * You need use it with some core files (downloaded in the app or built by yourself) to play the galgames, like easyrpg_libretro_android.so.zip or ppsspp_libretro_android.so.zip or onscripter_libretro or onsyuri_libretro or np2kai_libretro_android.so.zip      
 * https://www.retroarch.com/index.php?page=platforms  
 * core files: https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/  
-easyrpg_libretro_android.so.zip    
-ppsspp_libretro_android.so.zip  
+https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/easyrpg_libretro_android.so.zip     
+https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/ppsspp_libretro_android.so.zip     
+https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/np2kai_libretro_android.so.zip  
+No onscripter, onsyuri and mkxp-z binaries, need to be built by yourself  
 * https://buildbot.libretro.com/stable/1.21.0/android/RetroArch.apk
 * https://buildbot.libretro.com/stable/1.21.0/android/RetroArch_aarch64.apk
 * https://buildbot.libretro.com/stable/1.21.0/android/RetroArch_ra32.apk
@@ -298,6 +300,9 @@ https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/
 https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/np2kai_libretro_android.so.zip  
 https://github.com/AZO234/NP2kai  
 https://domisan.sakura.ne.jp/article/np2kai/np2kai.html  
+* mkxp-z, for RPG Maker XP / RPG Maker VX / RPG Maker VX Ace
+https://docs.libretro.com/library/mkxp-z/#features  
+git clone https://git.libretro.com/warmenhoven/mkxp-z.git  
 
 ## MTool Android version and its plugin apks, mtool, for RPG Maker XP/Vx/VxAce  
 * https://mtool.app/?lang=en
