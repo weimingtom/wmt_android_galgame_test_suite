@@ -290,6 +290,7 @@ ppsspp_libretro_android.so.zip
 * https://github.com/libretro/RetroArch/releases/tag/v1.21.0
 * (Newest, need to be built by yourself) https://github.com/YuriSizuku/OnscripterYuri/tree/master/src/onsyuri_libretro  
 * (Old, need to be built by yourself) https://github.com/iyzsong/onscripter-libretro  
+* (My Android build .so files, only onsyuri, not recommended, need to be renamed by yourself) https://github.com/weimingtom/onscripter-libretro_fork/releases/tag/v20250701  
 * Unfortunately, most of the cores have not been compiled for Android, sigh  
 * NP2KAI, PC-98 (Neko Project II Kai), np2kai_libretro.so   
 https://docs.libretro.com/library/neko_project_ii_kai/  
