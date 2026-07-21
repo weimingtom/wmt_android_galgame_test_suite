@@ -355,3 +355,9 @@ VX, VA, and MV.
 
 ## Xclannad.apk (for Chinese patch ??? not sure)  
 * https://github.com/guyanime84/xclannad/blob/main/Xclannad.apk  
+
+## 盖世游戏
+* https://play.google.com/store/apps/details?id=com.xiaoji.egggame&pcampaignid=web_share
+* https://hub.xiaoji.com/en
+* https://gamehub.xiaoji.com/zh-cn
+
