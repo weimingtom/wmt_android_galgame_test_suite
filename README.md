@@ -108,10 +108,11 @@ https://github.com/nefarius/ViGEmBus/releases
 
 ## AetherKiri, seems an Unofficial krkr2next apk build release     
 * (**NOTE:You need Android 14 or upper, or you may get a black screen**)       
-* https://github.com/AetherKiri/AetherKiri/releases/tag/0.2.0-beta.1  
-* https://github.com/AetherKiri/AetherKiri/releases/download/0.2.0-beta.1/AetherKiri-0.2.0-beta.1.apk
+* (dead) https://github.com/AetherKiri/AetherKiri/releases/tag/0.2.0-beta.1  
+* (dead) https://github.com/AetherKiri/AetherKiri/releases/download/0.2.0-beta.1/AetherKiri-0.2.0-beta.1.apk
 * See also https://github.com/reAAAq/KrKr2-Next  
 * See also https://krkr2next.com  
+* https://github.com/weimingtom/wmt_android_galgame_test_suite/releases/download/v1.0/AetherKiri-0.2.0-beta.1.apk  
 
 ## Tyranor 
 * ??? I don't know where
