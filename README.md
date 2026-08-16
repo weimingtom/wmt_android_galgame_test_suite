@@ -106,7 +106,11 @@ https://github.com/nefarius/ViGEmBus/releases
 * https://github.com/enaix/Kirikiroid2-debloated/releases/download/v1.2-pre/Kirikiroid2_yuri_1.4.1_debloated.apk  
 * https://github.com/enaix/Kirikiroid2-debloated/releases  
 
-## AetherKiri, seems an Unofficial krkr2next apk build release     
+## AetherKiri
+* https://github.com/AetherKiri/AetherKiri/releases  
+* https://github.com/AetherKiri/AetherKiri/releases/download/0.2.3/AetherKiri-0.2.3-android.apk  
+
+## AetherKiri-0.2.0-beta.1.apk, seems an Unofficial krkr2next apk build release     
 * (**NOTE:You need Android 14 or upper, or you may get a black screen**)       
 * (dead) https://github.com/AetherKiri/AetherKiri/releases/tag/0.2.0-beta.1  
 * (dead) https://github.com/AetherKiri/AetherKiri/releases/download/0.2.0-beta.1/AetherKiri-0.2.0-beta.1.apk
