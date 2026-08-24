@@ -135,8 +135,12 @@ https://github.com/nefarius/ViGEmBus/releases
 介乎v2.3.4和v2.3.2208之间的版本, 没有onsyuri模拟器(ONScripter-Yuri 0.7.6beta1)但有kirikiroid2 v1.3.9启动器
 旧的三下巴设计,如果是v2.3.4则是左侧按钮
 ```
-* https://github.com/tyranor2/TyranorRelease/releases  
-**NOTE**: I don't know if it is official  
+* https://github.com/tyranor2/TyranorRelease/releases    
+https://tyranor2.github.io/TyranorRelease/  
+**NOTE**: I don't know if it is official, only v2.3.3 and v2.3.4  
+* https://github.com/Weiss-UltimateSavior/Tyranor-Next  
+https://github.com/Weiss-UltimateSavior/Tyranor-Next/releases  
+**NOTE**: not tested  
 
 ## Artroid+
 * https://myskrpatch.tistory.com/82
