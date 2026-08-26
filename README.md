@@ -141,13 +141,15 @@ https://github.com/nefarius/ViGEmBus/releases
 介乎v2.3.4和v2.3.2208之间的版本, 没有onsyuri模拟器(ONScripter-Yuri 0.7.6beta1)但有kirikiroid2 v1.3.9启动器
 旧的三下巴设计,如果是v2.3.4则是左侧按钮
 ```
-* https://github.com/tyranor2/TyranorRelease/releases    
+* TyranorRelease  
+https://github.com/tyranor2/TyranorRelease/releases    
 https://tyranor2.github.io/TyranorRelease/  
 **NOTE**: I don't know if it is official, only v2.3.3 and v2.3.4  
-* https://github.com/Weiss-UltimateSavior/Tyranor-Next  
+* Tyranor-Next, unofficial repack mod    
+https://github.com/Weiss-UltimateSavior/Tyranor-Next  
 https://github.com/Weiss-UltimateSavior/Tyranor-Next/releases  
-**NOTE**: not tested  
-(tested) Tyranor-Next_beta-0.7.apk  
+**NOTE**: The newest version is not tested  
+(Tested version) Tyranor-Next_beta-0.7.apk  
 https://www.touchgal.ink/redirect?url=https%3A%2F%2Fgithub.com%2FWeiss-UltimateSavior%2FTyranor-Next%2Freleases%2Fdownload%2Fbeta-0.7%2Fapp-release.apk  
 
 ## Artroid+
