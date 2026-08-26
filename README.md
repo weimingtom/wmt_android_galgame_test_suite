@@ -141,6 +141,8 @@ https://tyranor2.github.io/TyranorRelease/
 * https://github.com/Weiss-UltimateSavior/Tyranor-Next  
 https://github.com/Weiss-UltimateSavior/Tyranor-Next/releases  
 **NOTE**: not tested  
+(tested) Tyranor-Next_beta-0.7.apk  
+https://www.touchgal.ink/redirect?url=https%3A%2F%2Fgithub.com%2FWeiss-UltimateSavior%2FTyranor-Next%2Freleases%2Fdownload%2Fbeta-0.7%2Fapp-release.apk  
 
 ## Artroid+
 * https://myskrpatch.tistory.com/82
