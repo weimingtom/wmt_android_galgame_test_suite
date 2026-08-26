@@ -106,9 +106,15 @@ https://github.com/nefarius/ViGEmBus/releases
 * https://github.com/enaix/Kirikiroid2-debloated/releases/download/v1.2-pre/Kirikiroid2_yuri_1.4.1_debloated.apk  
 * https://github.com/enaix/Kirikiroid2-debloated/releases  
 
-## AetherKiri
+## (***NOT Recommended*** ???) AetherKiri
 * https://github.com/AetherKiri/AetherKiri/releases  
 * https://github.com/AetherKiri/AetherKiri/releases/download/0.2.3/AetherKiri-0.2.3-android.apk  
+* https://github.com/AetherKiri/AetherKiri/releases/tag/0.4.4   
+```
+(for v0.4.4) 我发现这个模拟器似乎加载某些xp3目录会启动失败，但加载自带demo的data.xp3会启动成功，所以我不建议用这个模拟器的安卓版
+当然也有可能是我的问题，反正我没跑通官方的发布版
+另外这个模拟器的最新版似乎计划支持ONScripter（测试可行）和Artemis Engine（似乎被禁用），虽然我认为这样不太好   
+```
 
 ## AetherKiri-0.2.0-beta.1.apk, seems an Unofficial krkr2next apk build release     
 * (**NOTE:You need Android 14 or upper, or you may get a black screen**)       
