@@ -124,6 +124,11 @@ https://github.com/nefarius/ViGEmBus/releases
 * See also https://krkr2next.com  
 * https://github.com/weimingtom/wmt_android_galgame_test_suite/releases/download/v1.0/AetherKiri-0.2.0-beta.1.apk  
 
+## krkrsdl3
+* https://www.bilibili.com/video/BV1u3mpBcE94/
+* krkrsdl3_V0.0.6_beta6.exe
+* org.tvp.krkrsdl3_v0.0.6_beta6.apk
+
 ## Tyranor 
 * ??? I don't know where
 * (origin ? Not sure, **NOT Newest**, the newest is on another web page which I don't know) https://t.me/Tyranor/4, or search 'Tyranor-2.3.2208.apk'
