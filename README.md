@@ -156,9 +156,16 @@ https://github.com/Weiss-UltimateSavior/Tyranor-Next/releases
 **NOTE**: The newest version is not tested  
 (Tested version) Tyranor-Next_beta-0.7.apk  
 https://www.touchgal.ink/redirect?url=https%3A%2F%2Fgithub.com%2FWeiss-UltimateSavior%2FTyranor-Next%2Freleases%2Fdownload%2Fbeta-0.7%2Fapp-release.apk  
+https://github.com/Weiss-UltimateSavior/Tyranor-Next/releases/tag/beta-0.7  
+* Tyranor.rar, morning test data files  
 
 ## Artroid+
 * https://myskrpatch.tistory.com/82
+* Artroid+_3.0 (PW artroid).zip
+* Artroid+_2.0.apk
+* Artroid_1.4.0.apk
+* comakiratyranoemu_2.0.0_64522601-a5e5-5cc2-872d-375813d26a6d.apk
+* morning.rar, morning test data files  
 
 ## RLVM
 * https://github.com/xyzz/rlvm/releases/download/android-1/rlvm-1.apk  
