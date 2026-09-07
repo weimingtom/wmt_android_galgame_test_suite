@@ -346,6 +346,7 @@ git clone https://git.libretro.com/warmenhoven/mkxp-z.git
 * 安装教程在https://mtool.app/tutorial.php, 需要把rpgmaker游戏解压后的文件夹复制到内部存储：sdcard://Mtool/Games/<game name>下
 * 然后在APP的游戏库标签页下的列表进入，它会自动安装RTP
 * https://github.com/zths/mkxp-z-android-mtool
+* mtool_v19b.apk, mtool_mkxpz_v24a.apk  
 
 ## mkxp-z-android  
 * https://github.com/thehatkid/mkxp-z-android
