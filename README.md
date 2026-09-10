@@ -129,6 +129,10 @@ https://github.com/nefarius/ViGEmBus/releases
 * krkrsdl3_V0.0.6_beta6.exe
 * org.tvp.krkrsdl3_v0.0.6_beta6.apk
 
+## PocketKrKr
+* https://github.com/FiresonZ/PocketKrKr/releases/tag/android-v0.0.2
+* https://firesonz.github.io/PocketKrKr/
+
 ## Tyranor 
 * ??? I don't know where
 * (origin ? Not sure, **NOT Newest**, the newest is on another web page which I don't know) https://t.me/Tyranor/4, or search 'Tyranor-2.3.2208.apk'
