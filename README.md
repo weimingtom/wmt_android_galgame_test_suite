@@ -133,6 +133,10 @@ https://github.com/nefarius/ViGEmBus/releases
 * https://github.com/FiresonZ/PocketKrKr/releases/tag/android-v0.0.2
 * https://firesonz.github.io/PocketKrKr/
 
+## KrKr2-Next-Compose  
+* https://github.com/clevebitr/Krkr2Next
+* From Actions, KrKr2Next-apk-debug.zip  
+
 ## Tyranor 
 * ??? I don't know where
 * (origin ? Not sure, **NOT Newest**, the newest is on another web page which I don't know) https://t.me/Tyranor/4, or search 'Tyranor-2.3.2208.apk'
@@ -154,14 +158,15 @@ https://github.com/nefarius/ViGEmBus/releases
 https://github.com/tyranor2/TyranorRelease/releases    
 https://tyranor2.github.io/TyranorRelease/  
 **NOTE**: I don't know if it is official, only v2.3.3 and v2.3.4  
-* Tyranor-Next, unofficial repack mod    
-https://github.com/Weiss-UltimateSavior/Tyranor-Next  
-https://github.com/Weiss-UltimateSavior/Tyranor-Next/releases  
-**NOTE**: The newest version is not tested  
-(Tested version) Tyranor-Next_beta-0.7.apk  
-https://www.touchgal.ink/redirect?url=https%3A%2F%2Fgithub.com%2FWeiss-UltimateSavior%2FTyranor-Next%2Freleases%2Fdownload%2Fbeta-0.7%2Fapp-release.apk  
-https://github.com/Weiss-UltimateSavior/Tyranor-Next/releases/tag/beta-0.7  
 * Tyranor.rar, morning test data files  
+
+## Tyranor-Next, unofficial Tyranor repack mod, but also supports a lot of other engines    
+* https://github.com/Weiss-UltimateSavior/Tyranor-Next  
+* https://github.com/Weiss-UltimateSavior/Tyranor-Next/releases  
+* **NOTE**: The newest version is not tested  
+* (Tested version) Tyranor-Next_beta-0.7.apk  
+* https://www.touchgal.ink/redirect?url=https%3A%2F%2Fgithub.com%2FWeiss-UltimateSavior%2FTyranor-Next%2Freleases%2Fdownload%2Fbeta-0.7%2Fapp-release.apk  
+* https://github.com/Weiss-UltimateSavior/Tyranor-Next/releases/tag/beta-0.7  
 
 ## Artroid+
 * https://myskrpatch.tistory.com/82
