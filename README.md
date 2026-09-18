@@ -117,6 +117,13 @@ https://github.com/nefarius/ViGEmBus/releases
 ```
 * You need to use system_polyfill/PolyfillInitialize.tjs, or modify the source code
 * **You may not be able to load unmodified XP3 game files that are not encoded in UTF-8 and without system_polyfill/PolyfillInitialize.tjs**  
+```
+关于AetherKiri安卓版无法加载xp3文件的问题，我怀疑是这样，它应该只支持krkrsdl2和
+wamsoft/krkrz所使用的那种风格的xp3文件，
+即使用了system_polyfill/PolyfillInitialize.tjs, 不过这里还有一个疑点，
+为什么我编译AetherKiri的0.2.4版PC版可以加载不带polyfill的xp3文件？
+我还是不太明白是什么原因，还需要继续研究
+```
 * See also krkrsdl2 kag3:
 https://github.com/krkrsdl2/kag3/blob/krkrsdl2/data/startup.tjs  
 ```
