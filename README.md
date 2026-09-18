@@ -106,7 +106,7 @@ https://github.com/nefarius/ViGEmBus/releases
 * https://github.com/enaix/Kirikiroid2-debloated/releases/download/v1.2-pre/Kirikiroid2_yuri_1.4.1_debloated.apk  
 * https://github.com/enaix/Kirikiroid2-debloated/releases  
 
-## (***NOT Recommended*** ???) AetherKiri
+## (***NOT Recommended*** ???) AetherKiri, only support krkrsdl2 kag3 (or wamsoft/krkrz, I think) .xp3 game data files  
 * https://github.com/AetherKiri/AetherKiri/releases  
 * https://github.com/AetherKiri/AetherKiri/releases/download/0.2.3/AetherKiri-0.2.3-android.apk  
 * https://github.com/AetherKiri/AetherKiri/releases/tag/0.4.4   
@@ -114,6 +114,20 @@ https://github.com/nefarius/ViGEmBus/releases
 (for v0.4.4) 我发现这个模拟器似乎加载某些xp3目录会启动失败，但加载自带demo的data.xp3会启动成功，所以我不建议用这个模拟器的安卓版
 当然也有可能是我的问题，反正我没跑通官方的发布版
 另外这个模拟器的最新版似乎计划支持ONScripter（测试可行）和Artemis Engine（似乎被禁用），虽然我认为这样不太好   
+```
+* You need to use system_polyfill/PolyfillInitialize.tjs, or modify the source code
+* **You may not be able to load unmodified XP3 game files that are not encoded in UTF-8 and without system_polyfill/PolyfillInitialize.tjs**  
+* See also krkrsdl2 kag3:
+https://github.com/krkrsdl2/kag3/blob/krkrsdl2/data/startup.tjs  
+```
+// 機能が欠落している吉里吉里のバージョンのポリフィル関数を初期化します。
+Scripts.execStorage("system_polyfill/PolyfillInitialize.tjs");
+```
+* Or see also aetherkiri-kag3:
+https://github.com/AetherKiri/AetherKiri/blob/main/demos/aetherkiri-kag3/data/startup.tjs  
+```
+// 機能が欠落している吉里吉里のバージョンのポリフィル関数を初期化します。
+Scripts.execStorage("system_polyfill/PolyfillInitialize.tjs");
 ```
 
 ## AetherKiri-0.2.0-beta.1.apk, seems an Unofficial krkr2next apk build release     
