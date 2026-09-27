@@ -158,6 +158,11 @@ Scripts.execStorage("system_polyfill/PolyfillInitialize.tjs");
 * https://github.com/clevebitr/Krkr2Next
 * From Actions, KrKr2Next-apk-debug.zip  
 
+## NextScene, 下一幕
+* https://github.com/howtomakeaname/NextScene/releases/tag/v1.0.0
+* Put games into Internal_Stotrage\Download\com.nextscene.app\games\data\data.xp3, and choose folder: Internal_Stotrage\Download\com.nextscene.app  
+* nextscene-v1.0.0-android-arm64-signed.apk  
+
 ## Tyranor 
 * ??? I don't know where
 * (origin ? Not sure, **NOT Newest**, the newest is on another web page which I don't know) https://t.me/Tyranor/4, or search 'Tyranor-2.3.2208.apk'
