@@ -102,6 +102,10 @@ https://github.com/nefarius/ViGEmBus/releases
 * https://github.com/2468785842/krkr2/releases/download/v1.4.3/krkr2-1.4.3-arm64-v8a.apk  
 * https://github.com/2468785842/krkr2/releases  
 
+## Krkr2 AdvancedAppCreator version, with translation plugin (?), seems 2468785842/krkr2 fork  
+* https://github.com/AdvancedAppCreator/kirikiroid2/releases/tag/v1.6.14
+* https://github.com/AdvancedAppCreator/kirikiroid2/releases/download/v1.6.14/kirikiroid2-1.6.14-arm64-v8a.apk  
+
 ## Kirikiroid2-debloated
 * https://github.com/enaix/Kirikiroid2-debloated/releases/download/v1.2-pre/Kirikiroid2_yuri_1.4.1_debloated.apk  
 * https://github.com/enaix/Kirikiroid2-debloated/releases  
