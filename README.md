@@ -312,12 +312,12 @@ https://www.bilibili.com/video/BV1Sm411B7M9
 * https://www.25game.com
 * But this apk need login and real name, not recommended
 
-## ? termux, why??? 
+## (TODO) Termux and Termux-X11 and Input Bridge and Mobox  
+* https://github.com/olegos2/mobox    
 * https://termux.dev/en/  
 * (TODO) mobox  
 https://www.bilibili.com/video/BV11cp96DE1h/    
 * Mobox安装指南, 下面内容摘自百度结果  
-https://github.com/olegos2/mobox    
 ```
 先明确一点：你要装的是在安卓手机上模拟 Windows 应用的 ‌Mobox‌，
 不是企业网盘 MoBox，也不是电脑上的 MobaXterm。你的红米 7A 可以装，
