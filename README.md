@@ -315,6 +315,52 @@ https://www.bilibili.com/video/BV1Sm411B7M9
 ## ? termux, why??? 
 * https://termux.dev/en/
 * (TODO) mobox
+https://www.bilibili.com/video/BV11cp96DE1h/  
+* Mobox安装指南, 下面内容摘自百度结果  
+https://github.com/olegos2/mobox  
+```
+先明确一点：你要装的是在安卓手机上模拟 Windows 应用的 ‌Mobox‌，不是企业网盘 MoBox，也不是电脑上的 MobaXterm。你的红米 7A 可以装，但属于入门配置，建议装完先跑轻量软件试水。
+
+⚙️ 安装前准备
+‌系统要求‌：Android 10 或更高版本，至少预留 2GB 可用空间。
+‌必备三件套‌：Termux（终端）、Termux-X11（图形显示）、Input Bridge（触摸转键鼠）。
+‌网络环境‌：安装脚本托管在 GitHub，国内直连经常失败，需要准备稳定的网络环境（科学上网）。‌‌
+📥 一键安装
+打开 Termux，先申请存储权限：
+bash
+termux-setup-storage
+更新软件包：
+bash
+pkg update && pkg upgrade -y
+执行官方安装脚本：
+bash
+curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install &&. ~/x
+安装过程中出现问句一律输入 y 回车。看到 To start - type 'mobox' 即安装成功。‌‌
+🚀 启动与基础设置
+‌启动‌：在 Termux 输入 mobox，首次启动需等待几分钟。
+‌版本选择‌：新设备选 wow64 版本（选项 2），老设备选经典版（选项 1）。
+‌分辨率‌：在 Termux-X11 的 Preferences 里把分辨率设为 1280x720，触控精度和显示效果最均衡。
+‌语言‌：安装汉化包后，在设置里选择语言并输入 1 zh_CN 切换为中文。‌‌
+🔧 图形驱动选择
+驱动选错会黑屏或卡死，建议按 GPU 选：
+
+表格
+驱动方案	适用设备	特点
+Mesa VirGL	大多数安卓设备	兼容性最好，性能一般
+Turnip + DXVK	骁龙 8 系列 + Adreno 6xx/7xx	性能最强，仅限骁龙
+你的红米 7A 属于入门机型，先用 VirGL 保证能跑起来，再考虑性能优化。
+
+⚠️ 常见问题
+安装失败 90% 是网络问题，优先检查能否顺畅访问 GitHub。‌‌
+
+‌Termux 崩溃‌：删除自定义主题脚本：rm -rf $PREFIX/glibc/opt/termux-style
+‌没有声音‌：尝试更新到新版 wow64 版本，检查模拟器音量设置。
+‌游戏卡顿‌：低配设备建议在 Compatibility settings 里禁用 dri3。‌‌
+💡 补充建议
+‌验证安装‌：把示例程序“旋转茶壶”解压到 C 盘，能打开说明基本可用。
+‌备份配置‌：建议在设置菜单里导出配置，方便以后换机恢复。
+‌理性预期‌：红米 7A 的处理器和内存偏入门，能跑 Office、7-Zip 这类轻量软件，但大型 3D 游戏基本不用指望。‌‌
+```
 
 ## Emulators on Android, most links dead
 * https://emulation.fandom.com/wiki/Emulators_on_Android
