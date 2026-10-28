@@ -495,3 +495,9 @@ VX, VA, and MV.
 * https://hub.xiaoji.com/en
 * https://gamehub.xiaoji.com/zh-cn
 
+## 续幕 Xumu
+* https://api.dixonmxl.com/xumu/site/
+* https://www.bilibili.com/opus/1258520379516780576
+* https://api.dixonmxl.com/xumu/site/download.html
+* https://github.com/zhxyComing/XuMu/releases/tag/v0.1.4
+* https://github.com/zhxyComing/XuMu
