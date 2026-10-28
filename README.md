@@ -495,9 +495,11 @@ VX, VA, and MV.
 * https://hub.xiaoji.com/en
 * https://gamehub.xiaoji.com/zh-cn
 
-## 续幕 Xumu
+## 续幕 Xumu, 在 Android 上玩 AVG 和 PC 游戏, 续幕支持 ONS、KRKR 与 PC 引擎，将游戏管理、画面增强和游玩工具带到 Android。
 * https://api.dixonmxl.com/xumu/site/
 * https://www.bilibili.com/opus/1258520379516780576
 * https://api.dixonmxl.com/xumu/site/download.html
 * https://github.com/zhxyComing/XuMu/releases/tag/v0.1.4
 * https://github.com/zhxyComing/XuMu
+* Xumu-0.1.4-release.apk
+
