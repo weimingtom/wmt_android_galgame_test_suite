@@ -503,3 +503,8 @@ VX, VA, and MV.
 * https://github.com/zhxyComing/XuMu
 * Xumu-0.1.4-release.apk
 
+## NinanACG  
+* https://github.com/ninna17/NinanACG-ons-plugin
+* https://app.ninan.ink
+* https://ninan.ink
+* 1.3.0, NinanACG.apk, NinanACG.7z
