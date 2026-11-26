@@ -140,6 +140,7 @@ https://github.com/AetherKiri/AetherKiri/blob/main/demos/aetherkiri-kag3/data/st
 // 機能が欠落している吉里吉里のバージョンのポリフィル関数を初期化します。
 Scripts.execStorage("system_polyfill/PolyfillInitialize.tjs");
 ```
+* tested not good: v0.2.3, v1.2.1  
 
 ## AetherKiri-0.2.0-beta.1.apk, seems an Unofficial krkr2next apk build release     
 * (**NOTE:You need Android 14 or upper, or you may get a black screen**)       
