@@ -514,6 +514,9 @@ VX, VA, and MV.
 * ios, need appleid self sign, and copy file to application's document folder through usb
 
 ## [iOS]ONSCripte.ipa, ONS iOS ver 2.0 beta launcher by tokTc    
+* (dead) https://github.com/toktc/onscripter-for-iOS-GBK
+* (?) https://github.com/Yeatse/ONScripter-iOS
+* (?) https://github.com/Mysterious-tk/onscripter-for-iOS-GBK  
 * ios, need appleid self sign, and copy file to application's document folder through usb  
 * 云下载/ONS, [iOS]ONSCripte.ipa and [iOS]ios_ons模拟器下载地址及ONScripter使用教程.docx  
 * Actually it doesn't need to use [iOS]ios_ons模拟器下载地址及ONScripter使用教程.docx's method (via itools and ifile.ipa), just copy game files like 0.txt via 爱思助手i4tools to ONScripte.ipa application's doc path (not global doc path)
@@ -540,5 +543,8 @@ VX, VA, and MV.
 只是最开始不显示左边的记录；onscripter launcher有一些显示bug，但可以显示按钮和选择游戏，
 onscripter-jh则无法选择游戏
 ```
+* see also https://github.com/weimingtom/wmt_ios_study
 
 ## kirikiroid2_131_paopaoche.ipa  
+* other newer versions: https://github.com/zeas2/Kirikiroid2/releases
+* 1.3.1: https://github.com/zeas2/Kirikiroid2/releases/download/1.3.1/Kirikiroid2_1.3.1.ipa
