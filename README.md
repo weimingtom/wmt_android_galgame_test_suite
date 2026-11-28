@@ -517,5 +517,28 @@ VX, VA, and MV.
 * ios, need appleid self sign, and copy file to application's document folder through usb  
 * 云下载/ONS, [iOS]ONSCripte.ipa and [iOS]ios_ons模拟器下载地址及ONScripter使用教程.docx  
 * Actually it doesn't need to use [iOS]ios_ons模拟器下载地址及ONScripter使用教程.docx's method (via itools and ifile.ipa), just copy game files like 0.txt via 爱思助手i4tools to ONScripte.ipa application's doc path (not global doc path)
+```
+（以下火星）iphone7plus好像是可以传文件进去手机里面（我用ES文件管理器的FTP方式，其实还有很多方法，例如SMB），
+不过和安卓不同，只能看文本PDF图片之类的文件，如果想用这种方法装ipa的话是不行的，我还在研究。
+然后用macos连接iphone7plus时在访达里也会显示出设备的图标，但不是作为硬盘分区设备，
+只是看起来像个存储器，其实是个备份管理工具，可能作用类似于iTunes
+
+经过最近几天的研究，我成功搭建了一个xcode 14.1开发环境来编译安装iOS程序到iphone7plus上，iOS版本15.8，这是可行的，
+而且我查过也有人成功用xcode 14.2真机调试
+（1）需要appleid签名，即便是闭源也可以appleid签名，越也要appleid，非越安装ipa也需要appleid
+（2）现在可以便宜买到的常见的有iphone4s，iphone6，iphone7plus，如果想真机调试的话不建议买iphone4s
+（不知道为什么会连不上macos），但iphone4s（iOS9）有好处是支持32位，但iphone6和7（iOS15.8）都不支持了
+（3）如果用xcode 14，需要macos升级到Monterey，升完之后xcode 11和xcode 12就不能用了，大概需要3个半小时左右，
+下完和重启安装前需要用鼠标点确定
+（4）模拟器不需要签名，真机调试需要appleid签名和在iphone上设置-通用-设备管理-信任，
+另外xcode的设备支持文件夹需要把15.5（不是15.7）复制到15.8，
+参考《手机升级到iOS15.8后无法在xcode(14.2)上真机调试》
+
+用iOS 9（iphone4s）运行kirikiroid2、onscripter launcher、onscripter-jh的效果，
+需要appleid做设备自签名重新打包（那就不需要越了），
+需要把文件或文件夹通过线和软件复制到app各自的目录中。kirikiroid2大概和安卓版类似，
+只是最开始不显示左边的记录；onscripter launcher有一些显示bug，但可以显示按钮和选择游戏，
+onscripter-jh则无法选择游戏
+```
 
 ## kirikiroid2_131_paopaoche.ipa  
